@@ -1,0 +1,64 @@
+id,item_name,category,price,description
+1,Classic Pancakes,Breakfast,45.0,Fluffy pancakes served with maple syrup and butter
+2,Avocado Toast,Breakfast,48.0,"Toasted sourdough with avocado, cherry tomatoes, and poached egg"
+3,Breakfast Burrito,Breakfast,40.0,"Tortilla filled with scrambled eggs, cheese, and bacon"
+4,Croissant,Breakfast,22.0,French buttery croissant with flaky layers
+5,French Toast,Breakfast,47.0,"Brioche bread soaked in a cinnamon egg batter, served with fresh fruit"
+6,Omelette,Breakfast,36.0,"Three-egg omelette with cheese, mushrooms, and spinach"
+7,Hot Chocolate,Beverage,28.0,Creamy hot chocolate topped with whipped cream
+8,Fruit Bowl,Breakfast,34.0,Fresh seasonal fruits served in a bowl
+9,Bagel with Cream Cheese,Breakfast,30.0,Toasted bagel with a generous layer of cream cheese
+10,Eggs Benedict,Breakfast,50.0,Poached eggs on English muffins with hollandaise sauce
+11,Chicken Caesar Salad,Main Course,55.0,"Crispy romaine lettuce with grilled chicken, croutons, and Caesar dressing"
+12,Club Sandwich,Main Course,52.0,"Triple-layered sandwich with turkey, bacon, lettuce, and tomato"
+13,Margherita Pizza,Main Course,60.0,"Classic pizza with tomato sauce, mozzarella, and fresh basil"
+14,Pepperoni Pizza,Main Course,55.0,Italian-style pizza with spicy pepperoni and mozzarella
+15,Beef Burger,Main Course,68.0,"Juicy beef burger with lettuce, tomato, cheese, and house sauce"
+16,Veggie Burger,Main Course,56.0,"Plant-based burger with avocado, lettuce, and vegan cheese"
+17,Spaghetti Bolognese,Main Course,42.0,Classic Italian pasta with a rich meat sauce
+18,Pad Thai,Main Course,64.0,"Thai-style stir-fried noodles with shrimp, tofu, and peanuts"
+19,Grilled Salmon,Main Course,48.0,"Salmon fillet with lemon butter sauce, served with vegetables"
+20,Ribeye Steak,Main Course,55.0,Grilled ribeye steak served with garlic mashed potatoes
+21,Chicken Alfredo Pasta,Main Course,38.0,Fettuccine pasta with creamy Alfredo sauce and grilled chicken
+22,Vegetable Stir Fry,Main Course,28.0,Mixed vegetables stir-fried with soy sauce and served with rice
+23,Lamb Chops,Main Course,60.0,"Grilled lamb chops with rosemary sauce, served with potatoes"
+24,Fish and Chips,Main Course,58.0,Golden fried fish with crispy chips and tartar sauce
+25,Falafel Wrap,Main Course,64.0,"Middle Eastern wrap with falafel, veggies, and tahini sauce"
+26,Kebab Platter,Main Course,50.0,Assorted kebabs served with rice and sauces
+27,Pho Noodle Soup,Main Course,60.0,Vietnamese noodle soup with beef and herbs
+28,Carbonara Pasta,Main Course,42.0,Italian pasta with creamy sauce and pancetta
+29,Beef Enchiladas,Main Course,45.0,Mexican-style rolled tortillas with beef and cheese
+30,Butter Chicken,Main Course,70.0,Indian chicken in a creamy tomato sauce
+31,Chicken Quesadilla,Main Course,50.0,Mexican-style quesadilla with cheese and grilled chicken
+32,Seafood Paella,Main Course,60.0,Spanish rice dish with assorted seafood and saffron
+33,Cheesecake,Dessert,32.0,Rich and creamy New York-style cheesecake
+34,Chocolate Fondant,Dessert,40.0,Warm chocolate cake with a molten center
+35,Crepes with Nutella,Dessert,38.0,French thin pancakes with Nutella and strawberries
+36,Tiramisu,Dessert,34.0,Italian coffee-flavored dessert with mascarpone
+37,Churros,Dessert,35.0,Spanish fried dough with cinnamon sugar
+38,Baklava,Dessert,40.0,Middle Eastern pastry with nuts and honey
+39,Apple Pie,Dessert,52.0,Classic apple pie with cinnamon and a flaky crust
+40,Ice Cream Sundae,Dessert,38.0,"Vanilla ice cream with chocolate sauce, nuts, and a cherry"
+41,Mango Sticky Rice,Dessert,30.0,"Thai dessert with sticky rice, mango, and coconut milk"
+42,Espresso,Beverage,10.0,Strong Italian coffee shot
+43,Cappuccino,Beverage,12.0,Espresso with steamed milk foam
+44,Latte,Beverage,12.0,Creamy coffee with steamed milk
+45,Mango Smoothie,Beverage,14.0,Refreshing mango smoothie with yogurt
+46,Coca Cola,Beverage,5.0,Classic carbonated cola drink
+47,Bottled Water,Beverage,3.0,Refreshing still water
+48,Sparkling Water,Beverage,4.0,Carbonated water with a hint of lemon
+49,Green Tea,Beverage,8.0,Hot brewed green tea
+50,Iced Lemon Tea,Beverage,10.0,Chilled tea with lemon
+51,Matcha Latte,Beverage,15.0,Japanese green tea latte
+52,Fresh Orange Juice,Beverage,12.0,Freshly squeezed orange juice
+53,Mint Lemonade,Beverage,10.0,Lemonade infused with fresh mint
+54,Bruschetta,Appetizer,30.0,"Grilled bread topped with fresh tomatoes, basil, and balsamic glaze"
+55,Stuffed Mushrooms,Appetizer,32.0,"Mushrooms filled with cheese and herbs, baked to perfection"
+56,Spring Rolls,Appetizer,25.0,"Crispy rolls filled with vegetables, served with sweet chili sauce"
+57,Chicken Wings,Appetizer,40.0,Spicy chicken wings served with ranch dressing
+58,Mozzarella Sticks,Appetizer,35.0,Fried mozzarella cheese sticks with marinara sauce
+59,Hummus Platter,Appetizer,28.0,Classic hummus served with pita bread and veggies
+60,Calamari,Appetizer,38.0,Fried squid rings served with garlic aioli
+61,Garlic Bread,Appetizer,20.0,Toasted bread with garlic butter and parsley
+62,Nachos,Appetizer,42.0,"Tortilla chips topped with cheese, jalapenos, and salsa"
+63,Shrimp Cocktail,Appetizer,45.0,Chilled shrimp served with cocktail sauce
